@@ -1,3 +1,0 @@
-files:
-  - source: /locales/en-US
-    translation: /locales/%locale%/messages.gotext.json

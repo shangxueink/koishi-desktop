@@ -1,9 +1,0 @@
-MainWindow,
-QPlainTextEdit {
-  background-color: transparent;
-}
-
-QLabel,
-QGroupBox::title {
-  color: white;
-}
